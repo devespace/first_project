@@ -1,0 +1,26 @@
+﻿body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:15px;
+    background-color:#fff7ce;
+}
+
+.my-form {
+    margin:100px auto;
+    border:solid 1px #873419;
+    width:500px;
+}
+
+
+.my-form h1, p {
+    text-align:center;
+}
+
+td {
+   padding:5px 20px ;
+}
+
+.my-btn {
+    background-color:burlywood;
+    border:solid 4px #fff7ce;
+    padding: 10px 40px;
+}
